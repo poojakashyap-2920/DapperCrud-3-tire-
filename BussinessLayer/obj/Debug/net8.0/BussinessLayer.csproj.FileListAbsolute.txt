@@ -1,0 +1,15 @@
+D:\C#\WebApi\DapperCrud\BussinessLayer\bin\Debug\net8.0\BussinessLayer.deps.json
+D:\C#\WebApi\DapperCrud\BussinessLayer\bin\Debug\net8.0\BussinessLayer.dll
+D:\C#\WebApi\DapperCrud\BussinessLayer\bin\Debug\net8.0\BussinessLayer.pdb
+D:\C#\WebApi\DapperCrud\BussinessLayer\bin\Debug\net8.0\RepositoryLayer.dll
+D:\C#\WebApi\DapperCrud\BussinessLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\BussinessLayer.csproj.AssemblyReference.cache
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\BussinessLayer.AssemblyInfoInputs.cache
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\BussinessLayer.AssemblyInfo.cs
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\BussinessLayer.csproj.CoreCompileInputs.cache
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\Bussines.E1038C4E.Up2Date
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\BussinessLayer.dll
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\refint\BussinessLayer.dll
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\BussinessLayer.pdb
+D:\C#\WebApi\DapperCrud\BussinessLayer\obj\Debug\net8.0\ref\BussinessLayer.dll
